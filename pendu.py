@@ -30,4 +30,9 @@ while tour != 0:
     if "_" not in affichage:
         break
 
-print("Bravo, tu as gagné !")
+#affichage du message de fin
+if "_" not in affichage:
+    print("Bravo, tu as gagné !")
+else:
+    print("Tu as perdu...")    
+
