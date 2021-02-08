@@ -34,5 +34,6 @@ while tour != 0:
 if "_" not in affichage:
     print("Bravo, tu as gagné !")
 else:
-    print("Tu as perdu...")    
+    print("Tu as perdu...")
 
+lala
