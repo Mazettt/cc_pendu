@@ -36,4 +36,4 @@ if "_" not in affichage:
 else:
     print("Tu as perdu...")
 
-lala
+lala = 1
